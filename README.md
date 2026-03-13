@@ -1,0 +1,2 @@
+A Laravel web app where students can browse campus events, book places, and manage their bookings. Admins can create, edit, and delete events, manage capacity, and view bookings.
+ravel supports this structure directly through controllers, migrations, validation, and authentication starter kits. Migrations are used to define and share the database schema, controllers group request logic, and Laravel starter kits provide built-in auth scaffolding.
